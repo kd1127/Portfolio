@@ -1,0 +1,264 @@
+.background{
+	 background-image: url(./public/BGImage.jpg);
+	 background-repeat: repeat;
+     background-size: cover; /* 画面全体にフィット */
+     background-position: center;
+     width: 1000px;
+     height: 500px;
+     margin-left: 100px;
+}
+
+.headline{
+  text-align: left;
+}
+
+.label-java{
+  margin-left: -600px;
+}
+
+.span-java{
+  margin-left: 150px;
+}
+
+.label-python{
+  margin-left: -600px;
+}
+
+.span-python{
+  margin-left: 127px; 
+}
+
+.label-vbnet{
+  margin-left: -600px;
+}
+
+.span-vbnet{
+  margin-left: 133px; 
+}
+
+.label-js{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-js{
+  position: absolute;
+  margin-left: -252px; 
+}
+
+.label-html{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-html{
+  position: absolute;
+  margin-left: -250px; 
+}
+
+.label-css{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-css{
+  position: absolute;
+  margin-left: -250px; 
+}
+
+.label-sb{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-sb{
+  position: absolute;
+  margin-left: -250px; 
+}
+
+.label-junit{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-junit{
+  position: absolute;
+  margin-left: -250px; 
+}
+
+.label-react{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-react{
+  position: absolute;
+  margin-left: -250px; 
+}
+
+.label-db2{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-db2{
+  position: absolute;
+  margin-left: -250px; 
+}
+
+.label-mysql{
+  position: absolute;
+  margin-left: -440px;
+}
+
+.span-mysql{
+  position: absolute;
+  margin-left: -250px; 
+}
+
+.main-text{
+  margin-left: -500px;
+  padding-left: -100px;
+}
+
+.main-text2{
+  margin-left: -575px;
+  padding-top: -30px;
+}
+
+.main-text3{
+  margin-left: -500px;
+  padding-top: -100px;
+}
+
+.main-text4{
+  margin-left: -525px;
+  padding-top: -200px;
+}
+
+.main-text5{
+  margin-left: -600px;
+  padding-top: -200px;
+}
+
+.introduction{
+  text-align: left;
+  margin-left: 50px;
+}
+
+.private-develop{
+  text-align: left;
+  margin-left: 50px;
+}
+
+.toPW{
+	display: block;
+    width: 30%;
+    margin: 8px 0;
+    padding: 10px;
+    border: none;
+    background: #007BFF;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 350px;
+}
+
+.picture{
+  display: block;
+  width: 99vw;
+  height: 30vw;
+  margin-left: -110px;
+}
+
+.title{
+	color: black;
+	text-align: center !important;
+	font-size: 33pt;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.mainmenu{
+  padding-bottom: 110px;
+}
+
+.sec1{
+  margin-left: -450px;
+  padding-right: 50px;
+  font-size: 25px;
+  position: absolute;
+}
+
+.sec2{
+  margin-left: -250px;
+  font-size: 25px;
+  position: absolute;
+}
+
+.sec3{
+  margin-left: -50px;
+  font-size: 25px;
+  position: absolute;
+}
+
+.sec4{
+  margin-left: 100px;
+  font-size: 25px;
+  position: absolute;
+}
+
+.sec5{
+  margin-left: 350px;
+  font-size: 25px;
+  position: absolute;
+}
+
+.label-name{
+  margin-left: -400px;
+  position: absolute;
+}
+
+.label-name2{
+  margin-left: -400px;
+  position: absolute;
+}
+
+.label-name3{
+  margin-left: -400px;
+  position: absolute;
+}
+
+.text-field{
+  margin-left: -200px;
+  position: absolute;
+}
+
+.text-field2{
+  margin-left: -200px;
+  position: absolute;
+}
+
+.text-field3{
+  margin-left: -200px;
+  position: absolute;
+  margin-bottom: 500px;
+}
+
+.mail-send{
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+
+#mail-send-style{
+    width: 30%;
+    padding: 10px;
+    border: none;
+    background: #007BFF;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: -10px;
+}

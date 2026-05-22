@@ -1,0 +1,21 @@
+import Introduction from "./Introduction";
+import MySkills from "./MySkills";
+import WorkExperience from "./WorkExperience";
+import PrivateDevelop from "./PrivateDevelop";
+import TopPane from "./TopPane";
+import InquiryForm from "./InquiryForm";
+
+const App = () => {
+    return (
+      <div>
+        <TopPane />
+        <Introduction /><br></br>
+        <MySkills /><br></br>
+        <WorkExperience /><br></br>
+        <PrivateDevelop />
+        <InquiryForm />
+      </div>
+    )
+}
+
+export default App;
