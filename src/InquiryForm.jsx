@@ -59,7 +59,7 @@ const InquiryForm = () => {
 
     return (
         <div id="sec5">
-            <h2 Class="headline">問い合わせ</h2>
+            <h2 Class="headline">InquiryForm</h2>
             <label Class="label-name">氏名（必須）</label>
             <input type="text" required value={name} onChange={(e) => setName(e.target.value)} 
                 Class="text-field"/><br></br>
