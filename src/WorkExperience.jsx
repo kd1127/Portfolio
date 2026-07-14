@@ -3,7 +3,7 @@ import "./App.css";
 const WorkExperience = () => {
     return (
         <div  id="sec3">
-            <h2 Class="headline">Work</h2>
+            <h2 Class="headline">Works</h2>
             <ul>
                 <li><div Class="main-text">ガス会社向け独自フレームワーク書き換え</div></li>
                 <li><div Class="main-text2">官公庁向け公営事業システム</div></li>

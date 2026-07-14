@@ -13,7 +13,7 @@ const TopPane = () => {
       				<a href="#sec2">MySkills</a>
     			</span>
     			<span Class="sec3">
-      				<a href="#sec3">Work</a>
+      				<a href="#sec3">Works</a>
    				 </span>
     			<span Class="sec4">
       				<a href="#sec4">PrivateDevelop</a>
