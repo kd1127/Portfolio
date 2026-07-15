@@ -4,11 +4,11 @@ import WorkExperience from "./WorkExperience";
 import PrivateDevelop from "./PrivateDevelop";
 import TopPane from "./TopPane";
 import InquiryForm from "./InquiryForm";
-import './App.css'
+import "./APP.css";
 
 const App = () => {
     return (
-      <div>
+      <div Class="background">
         <TopPane />
         <Introduction /><br></br>
         <MySkills /><br></br>
