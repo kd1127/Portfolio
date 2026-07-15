@@ -1,5 +1,6 @@
 const PrivateDevelop = () => {
-    const url = "http://localhost:8080/login";
+    //  const url = "http://localhost:8080/login";
+    const url = "http://ec2-3-113-162-188.ap-northeast-1.compute.amazonaws.com//login";
     return(
         <div id="sec4">
             <h2 Class="headline">PrivateDevelop</h2>
