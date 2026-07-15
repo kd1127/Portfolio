@@ -3,7 +3,9 @@ import "./App.css";
 const TopPane = () => {
     return (
         <div>
-            <img alt="トップ画像" src="./public/TopPicture.jpg" Class="picture"></img>
+            {//	ローカル用 <img alt="トップ画像" src="./public/TopPicture.jpg" Class="picture"></img>
+}
+			<img alt="トップ画像" src="./TopPicture.jpg" Class="picture"></img>
             <p Class="title" id="index">My Portfolio Site</p>
             <div Class="mainmenu">
     			<span Class="sec1">

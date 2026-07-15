@@ -1,7 +1,17 @@
-.background{
+/* .background{  ローカル用
 	 background-image: url(./public/BGImage.jpg);
 	 background-repeat: repeat;
-     background-size: cover; /* 画面全体にフィット */
+     background-size: cover; 
+     background-position: center;
+     width: 1000px;
+     height: 500px;
+     margin-left: 100px;
+} */
+
+.background{
+	 background-image: url(./BGImage.jpg);
+	 background-repeat: repeat;
+     background-size: cover; 
      background-position: center;
      width: 1000px;
      height: 500px;
@@ -167,7 +177,7 @@
 
 .picture{
   display: block;
-  width: 99vw;
+  width: 89vw;
   height: 30vw;
   margin-left: -110px;
 }
