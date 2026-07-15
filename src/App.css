@@ -1,4 +1,4 @@
-/* .background{  ローカル用
+/* body{  ローカル用
 	 background-image: url(./public/BGImage.jpg);
 	 background-repeat: repeat;
      background-size: cover; 
@@ -8,7 +8,7 @@
      margin-left: 100px;
 } */
 
-.background{
+body{
 	 background-image: url(./BGImage.jpg);
 	 background-repeat: repeat;
      background-size: cover; 

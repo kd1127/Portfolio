@@ -8,7 +8,7 @@ import './App.css'
 
 const App = () => {
     return (
-      <div Class="background">
+      <div>
         <TopPane />
         <Introduction /><br></br>
         <MySkills /><br></br>
