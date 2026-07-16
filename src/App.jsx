@@ -4,7 +4,7 @@ import WorkExperience from "./WorkExperience";
 import PrivateDevelop from "./PrivateDevelop";
 import TopPane from "./TopPane";
 import InquiryForm from "./InquiryForm";
-import "./APP.css";
+import "./App.css";
 
 const App = () => {
     return (
