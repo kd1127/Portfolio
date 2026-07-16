@@ -44,7 +44,6 @@ const InquiryForm = () => {
             });
             console.log(response.status);
             if(!response.ok){
-                alert("何らかの理由によりエラーが発生しました。");
                 throw new Error("何らかの理由によりエラーが発生しました。");
             }
             else if(response.ok){
@@ -53,7 +52,7 @@ const InquiryForm = () => {
             const message = response.json;
             alert(JSON.stringify(message));
         } catch(error){
-            alert("エラー内容：", error);
+            alert("エラー内容：" + error);
         }
     }
 

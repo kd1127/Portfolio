@@ -26,6 +26,8 @@ const MySkills = () => {
             <span Class="span-db2">★★★☆☆</span><br></br>
             <label Class="label-mysql">MySQL</label>
             <span Class="span-mysql">★★★☆☆</span><br></br>
+            <label Class="label-mysql">AWS</label>
+            <span Class="span-mysql">★★☆☆☆</span><br></br>
         </div>
     );
 }
