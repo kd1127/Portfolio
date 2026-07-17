@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 const InquiryForm = () => {
-    const url = "http://localhost:8080/api/mailSend";
-    //  const url = "http://ec2-3-113-162-188.ap-northeast-1.compute.amazonaws.com/api/mailSend";
+    //  const url = "http://localhost:8080/api/mailSend";
+    const url = "http://ec2-3-113-162-188.ap-northeast-1.compute.amazonaws.com/api/mailSend";
 
     const [name, setName] = useState("");
     const [mailAddress, setMailAddress] = useState("");
