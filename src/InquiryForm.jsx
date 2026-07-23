@@ -50,7 +50,7 @@ const InquiryForm = () => {
             else if(response.ok){
                 alert("問い合わせ完了しました。");
             }
-            const message = response.json;
+            const message = response.json();
             alert(JSON.stringify(message));
         } catch(error){
             alert("エラー内容：" + error);
